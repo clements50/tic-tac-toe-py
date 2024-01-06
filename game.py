@@ -9,3 +9,6 @@ def setPlayer():
     else:
         currPlayer = playerOne
 
+board = [['','','']
+         ['','','']
+         ['','','']]
